@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SimServer"
+  id="myeclipse.1470924326495"
+  context-root="/SimServer"
+  j2ee-spec="5.0"
+  archive="SimServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
